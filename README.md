@@ -2,7 +2,7 @@
 
 A clean, chart-driven dashboard for tracking income and expenses: category breakdowns, monthly trends, date-range filtering, and CSV import/export. Built to demonstrate data visualization — a skill not covered elsewhere in this portfolio.
 
-**Live demo:** https://Firqan.github.io/expense-dashboard/
+**Live demo:** https://furqan-labs.github.io/expense-dashboard/
 
 ## Features
 
